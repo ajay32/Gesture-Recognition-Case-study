@@ -34,5 +34,5 @@ Dataset : https://drive.google.com/file/d/1GPqxmUcp5sQ5NUWAZ9z-_VZFuowYieUJ/view
 
 
 ### Contributers:
- - [Ajay Mehta][Ayush Saxena](https://github.com/ajay32/Gesture-Recognition-Case-study)
+ - [Ajay Mehta & Ayush Saxena](https://github.com/ajay32/Gesture-Recognition-Case-study)
 
