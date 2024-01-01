@@ -2,7 +2,7 @@
 
 **Developed by:**
 
-- **Ajay Mehta**
+- **Ajay Mehta & Ayush Saxena**
 
 Recognising 5 different hand gestures to control a smart TV
 
@@ -34,5 +34,5 @@ Dataset : https://drive.google.com/file/d/1GPqxmUcp5sQ5NUWAZ9z-_VZFuowYieUJ/view
 
 
 ### Contributers:
- - [Ajay Mehta](https://github.com/ajay32/Gesture-Recognition-Case-study)
+ - [Ajay Mehta][Ayush Saxena](https://github.com/ajay32/Gesture-Recognition-Case-study)
 
